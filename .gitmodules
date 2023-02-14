@@ -3,7 +3,7 @@
 	url = https://github.com/AFLplusplus/unicornafl
 [submodule "custom_mutators/grammar_mutator"]
 	path = custom_mutators/grammar_mutator/grammar_mutator
-	url = https://github.com/AFLplusplus/Grammar-Mutator
+	url = https://github.com/nathaniel-bennett/Grammar-Mutator
 [submodule "qemu_mode/qemuafl"]
 	path = qemu_mode/qemuafl
 	url = https://github.com/AFLplusplus/qemuafl
